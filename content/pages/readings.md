@@ -52,7 +52,7 @@ Klemperer, P. "Auction Theory: A Guide to the Literature." _Journal of Economic 
 
 Athey S., and P. Haile. "Empirical Models of Auctions." NBER Working Paper 12126. National Bureau of Economic Research, Cambridge, MA, March 2006. ([PDF](http://papers.nber.org/papers/w12126.pdf))
 
-Bresnahan, T. "Network Effects and Microsoft." Stanford University, Palo Alto, CA, 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-siepr.stanford.edu/papers/pdf/00-51.pdf))
+Bresnahan, T. "Network Effects and Microsoft." Stanford University, Palo Alto, CA, 2001. ([PDF](http://www-siepr.stanford.edu/papers/pdf/00-51.pdf))
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/theory-industrial-organization) Tirole, Jean. [_The Theory of Industrial Organization_](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, sections 10.1-10.5 and 8.1.3. ISBN: 0262200716.
 
@@ -143,7 +143,7 @@ McAfee, R. P., J. McMillan, and M. Whinston. "Multiproduct Monopoly, Commodity B
   
 Fudenberg, D., and J. Tirole. "Upgrades, Trade-ins, and Buybacks." _Rand Journal of Economics_ 29 (Summer 1998): 235-258.  
   
-Armstrong, M. "Recent Developments in the Economics of Price Discrimination." Econ Working Paper Archive, Industrial Organization Paper, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.econ.ucl.ac.uk/downloads/armstrong/pd.pdf))  
+Armstrong, M. "Recent Developments in the Economics of Price Discrimination." Econ Working Paper Archive, Industrial Organization Paper, 2006. ([PDF](http://www.econ.ucl.ac.uk/downloads/armstrong/pd.pdf))  
   
 Borenstein, S., and N. Rose. "Competition and Price Dispersion in the U.S. Airline Industry." _Journal of Political Economy_ 102 (August 1994): 653-683.  
   
@@ -449,7 +449,7 @@ Fudenberg, D., and J. Tirole. "Pricing Under the Threat of Entry by the Sole Sup
   
 Ellison, G., and D. Fudenberg. "The Neo-Luddite's Lament: Excessive Upgrades in the Software Industry." _Rand Journal of Economics_ 31 (Summer 2000): 253-272.  
   
-Bresnahan, T. "Network Effects and Microsoft." Stanford University, Palo Alto, CA, 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-siepr.stanford.edu/papers/pdf/00-51.pdf))  
+Bresnahan, T. "Network Effects and Microsoft." Stanford University, Palo Alto, CA, 2001. ([PDF](http://www-siepr.stanford.edu/papers/pdf/00-51.pdf))  
   
 Gandal, N., M. Kende, and R. Rob. "The Dynamics of Technological Adoption in Hardware/Software Systems: The Case of Compact Disc Players." _Rand Journal of Economics_ 31, no. 1 (Spring 2000): 43-61.
 {{< tdclose >}}
@@ -481,7 +481,7 @@ Tirole, Jean. [_The Theory of Industrial Organization_](https://mitpress.mit.edu
   
 Kremer, M. "Patent Buy-outs: A Mechanism for Encouraging Innovation." _Quarterly Journal of Economics_ (November 1998): 1137-1167.  
   
-Bessen, J., and E. Maskin. "Sequential Innovation, Patents, and Imitation." MIT Department of Economics Working Paper No. 00-01. MIT, Cambridge, MA, 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.sss.ias.edu/files/papers/econpaper25.pdf))  
+Bessen, J., and E. Maskin. "Sequential Innovation, Patents, and Imitation." MIT Department of Economics Working Paper No. 00-01. MIT, Cambridge, MA, 2000. ([PDF](http://www.sss.ias.edu/files/papers/econpaper25.pdf))  
   
 Green, J., and S. Scotchmer. "On the Division of Profit in Sequential Innovation." _Rand Journal of Economics_ 26 (Spring 1995): 131-146.  
   
