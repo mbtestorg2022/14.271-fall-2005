@@ -1,0 +1,11 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-271-industrial-organization-i-fall-2005/93a7b175ac77190165b46a2a558b8b2e_broiler.csv
+file_type: text/plain
+learning_resource_types: []
+ocw_type: OCWFile
+resourcetype: Other
+title: broiler.csv
+uid: 93a7b175-ac77-1901-65b4-6a2a558b8b2e
+---
